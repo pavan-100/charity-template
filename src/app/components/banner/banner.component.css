@@ -1,0 +1,40 @@
+.banner {
+  background-image: url(../../../assets/header-bg.jpg);
+  background-color: #000;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 90vh;
+}
+.img-content h1 {
+  color: #fff;
+  font-size: 72px;
+  font-weight: 700;
+  max-width: 500px;
+}
+button {
+  position: relative;
+  left: 80px;
+  position: relative;
+  left: 80px;
+  height: 40px;
+  width: 115px;
+  border-radius: 20px;
+}
+
+.bottom-cnt {
+  position: relative;
+  top: 600px;
+  background-image: -webkit-linear-gradient(
+    0deg,
+    #f40f68 0%,
+    #f86e3d 55%,
+    #fbcd11 100%
+  );
+  height: 90px;
+  color: white;
+}
+
+.bottom-cnt h1 {
+  padding: 10px;
+}
